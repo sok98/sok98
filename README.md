@@ -28,3 +28,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp   
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> &nbsp
+
+  
+<div align="center">
+    <a href="mailto:sok9805@gmail.com">
+        <img 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/ye_3___/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    <a href="https://instagram.com/ye_3___">
+        <img 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ye_3___/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    
+</div>
