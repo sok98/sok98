@@ -28,18 +28,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp   
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> &nbsp
-
+#
   
-<div align="center">
-    <a href="mailto:sok9805@gmail.com">
-        <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/ye_3___/"
-            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>
-    <a href="https://instagram.com/ye_3___">
-        <img 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ye_3___/"
-            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>
-    
-</div>
+#   
+- 🏷 **MemoryCard** : 카드로 공부하는 단어 암기장 '메모리카드'  ➡[README 보러가기](https://github.com/sok98/sok98/blob/main/MemoryCard.md)
+- 🎈 **WordBalloon** : 시각장애인을 위한 동영상 말풍선 자막 서비스 플랫폼 '워드벌룬'  ➡[README 보러가기](https://github.com/sok98/sok98/blob/main/WordBalloon.md)
+- 🙌 **Blahblah** : 쉐도잉 형식의 영상 기반 대화형 영어 회화 학습 서비스 '블라블라'  ➡[README 보러가기](https://github.com/sok98/sok98/blob/main/Blahblah.md)
+- 👚 **WeatherDresing** : 날씨에 따른 코디 추천 서비스 '웨더 드레싱'  ➡[README 보러가기](https://github.com/sok98/sok98/blob/main/WeatherDressing.md)
