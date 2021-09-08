@@ -4,6 +4,10 @@
 
 ➡ [Repository 바로가기](https://github.com/sok98/MemoryCard)   
 
+📅 2021. 08 ~ 진행중
+
+🙎‍♀️ 서예슬
+
 * * *
 
 ## 📱 실행 화면
