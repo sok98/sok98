@@ -16,7 +16,7 @@
 
 ## 📱 실행 화면
 
-![image](https://user-images.githubusercontent.com/43838027/132551682-234a2a34-4cf4-467f-8c53-0402c76e67f2.png)
+![image](https://user-images.githubusercontent.com/43838027/132805254-426292f5-d49c-42c6-b87e-8e9b403bc093.png)
 
 
 
