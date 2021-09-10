@@ -14,7 +14,9 @@
 
 ## 📱 실행 화면
 
+![image](https://user-images.githubusercontent.com/43838027/132805624-c9c566c8-1cdc-4000-bdfb-aae92a4ea88a.png)
 
+![image](https://user-images.githubusercontent.com/43838027/132805687-d23c36f9-9880-43e6-9e21-81282eb6c98f.png)
 
 
 ## 💡 주요 기능   
