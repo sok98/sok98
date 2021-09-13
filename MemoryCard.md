@@ -2,6 +2,8 @@
 
 📝 단어를 메모하고 카드 형태로 암기하는 심플한 단어 암기장 **MemoryCard** 입니다. 로그인 필요없이 설치 후 바로 사용 가능하고, 복잡한 기능을 덜어 단어를 확인하고 체크하는 핵심 기능만을 담았습니다. 
 
+🚀 [play store 바로가기](https://play.google.com/store/apps/details?id=com.yeseul.memorycard)
+
 ➡ [Repository 바로가기](https://github.com/sok98/MemoryCard)   
 
 📅 2021. 08 ~ 진행중
