@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 
 -->
 
-[![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sok98)](https://solved.ac/profile/sok98)
+
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -60,6 +60,9 @@ Here are some ideas to get you started:
 
 
 #   
+<h3 align="center"><b>🔥 Project 🔥</b></h3>
+</br>
+
 - 🏷 **MemoryCard** : 카드로 공부하는 단어 암기장 '메모리카드'  ➡[README 보러가기](https://github.com/sok98/sok98/blob/main/MemoryCard.md)
 
 - 🎈 **WordBalloon** : 시각장애인을 위한 동영상 말풍선 자막 서비스 플랫폼 '워드벌룬'  ➡[README 보러가기](https://github.com/sok98/sok98/blob/main/WordBalloon.md)
@@ -67,3 +70,8 @@ Here are some ideas to get you started:
 - 🙌 **Blahblah** : 쉐도잉 형식의 영상 기반 대화형 영어 회화 학습 서비스 '블라블라'  ➡[README 보러가기](https://github.com/sok98/sok98/blob/main/Blahblah.md)
  
 - 👚 **WeatherDresing** : 날씨에 따른 코디 추천 서비스 '웨더 드레싱'  ➡[README 보러가기](https://github.com/sok98/sok98/blob/main/WeatherDressing.md)
+
+#
+</br>
+
+[![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sok98)](https://solved.ac/profile/sok98)
