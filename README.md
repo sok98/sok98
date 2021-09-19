@@ -16,13 +16,9 @@ Here are some ideas to get you started:
 - 
 -->
 
-<center>
-    
 [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sok98)](https://solved.ac/profile/sok98)
 
-</center>
-    
-    
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -35,6 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp   
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> &nbsp
    
+    
 #
 <h3 align="center"><b>💌 Contact 💌</b></h3>
 </br>
@@ -61,8 +58,8 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-#   
 
+#   
 - 🏷 **MemoryCard** : 카드로 공부하는 단어 암기장 '메모리카드'  ➡[README 보러가기](https://github.com/sok98/sok98/blob/main/MemoryCard.md)
 
 - 🎈 **WordBalloon** : 시각장애인을 위한 동영상 말풍선 자막 서비스 플랫폼 '워드벌룬'  ➡[README 보러가기](https://github.com/sok98/sok98/blob/main/WordBalloon.md)
